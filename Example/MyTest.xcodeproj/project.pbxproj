@@ -40,7 +40,7 @@
 		1D838F9186FD9F53B47E87B9 /* Pods-MyTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyTest_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyTest_Example/Pods-MyTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		25DD2F56D007A5C65040ACD1 /* Pods_MyTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A55A4F3CDC63080CAA8238C /* Pods-MyTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyTest_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyTest_Tests/Pods-MyTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		372E695ADC6112F155B58C62 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		372E695ADC6112F155B58C62 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* MyTest_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyTest_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,8 +64,8 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		908AB337A6CC3946A0F87FEF /* Pods-MyTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyTest_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyTest_Tests/Pods-MyTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9D7E570420CCFDA8E5E51813 /* Pods_MyTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A94782A2AEEBFA4D93EF4D9F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		AD8987639BDD775B8220AA8F /* MyTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MyTest.podspec; path = ../MyTest.podspec; sourceTree = "<group>"; };
+		A94782A2AEEBFA4D93EF4D9F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		AD8987639BDD775B8220AA8F /* MyTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyTest.podspec; path = ../MyTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EFF6691D2D09BC58DA6DB9D1 /* Pods-MyTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyTest_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyTest_Example/Pods-MyTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
